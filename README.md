@@ -170,9 +170,11 @@ void Error_Handler(void)
 ```
 
 ## OUTPUT
-#Off Condition
+# Off Condition
+
 ![WhatsApp Image 2025-09-27 at 08 28 39_634e7042](https://github.com/user-attachments/assets/e2cad189-04d2-4821-b9a0-7133f9a7094a)
-#On Condition
+# On Condition
+
 ![WhatsApp Image 2025-09-27 at 08 28 40_8dcc32ab](https://github.com/user-attachments/assets/f9db29e3-6f1b-4e2d-a0ee-7f1970452039)
 
 
